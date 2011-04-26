@@ -1,11 +1,11 @@
-## == Translate CanCan :: 3Reis ==
+## == Translate CanCan  ==
 
 Arquivos modificados para tratuzir as permissões do CanCan, juntamente com o pt-BR da aplicação Rails.
 
 
 # = Licença =
 
-3Reis - CanCan está sob licença MIT.
+CanCan está sob licença MIT.
 
 
 # = Instalação =
@@ -20,11 +20,11 @@ Arquivos modificados para tratuzir as permissões do CanCan, juntamente com o pt
 ## Copiando os arquivos
 
 Vá em:
-    /home/<USUARIO>/.rvm/gems/ruby-1.9.2-head/gems/
+    /home/< USUARIO >/.rvm/gems/ruby-1.9.2/gems/
 
 Procure por cancan e entre, agora faça o backup do diretório /lib/.
 Vá no terminal e digite:
-   git clone git@github.com:3Reis/cancan.git
+   git clone git@github.com:cogumm/cancan.git
 
 Após ter feito isso, os seus arquivos da pasta /lib/ serão modificados pelos nossos.
 
